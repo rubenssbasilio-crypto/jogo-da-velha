@@ -1,0 +1,17 @@
+{
+  "name": "Tic Tac Toe Pro Edition",
+  "short_name": "Velha Pro",
+  "description": "Jogo de Jogo da Velha Profissional com Placar",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#00f2ff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icone.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
